@@ -5,6 +5,8 @@ gem 'rails', '4.2.1'
 
 gem 'rails-api'
 
+gem 'rspec-rails'
+
 gem 'spring', :group => :development
 
 
